@@ -1,4 +1,4 @@
 # Robotron2000
-Página de construção de robô feita em HTML, CSS e JavaScript.
+Robot construction system made in HTML, CSS and JavaScript.
 
-Projeto feito para o curso "JavaScript: manipulando o DOM" da Alura.
+Project made for the course "JavaScript: manipulando o DOM" by Alura.
